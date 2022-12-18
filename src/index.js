@@ -12,7 +12,7 @@ import UseMemoPage from "./pages/UseMemoPage";
 
 const root = createRoot(document.getElementById("root"));
 
-// root.render(jsx);
-root.render(<UseMemoPage />);
+root.render(jsx);
+// root.render(<UseMemoPage />);
 
 console.log("React", React.version); //sy-log
